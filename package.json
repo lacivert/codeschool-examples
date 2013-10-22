@@ -1,0 +1,8 @@
+{
+	"name": "codeschool-examples",
+	"dependencies": {
+    	"url" : "*",
+    	"request" : "*",
+    	"express": "*"
+	}
+}
